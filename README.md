@@ -1,11 +1,17 @@
 # e-mirai
  基于mirai-http-api的epl sdk
 
+# 注意
+
+本项目目前暂停维护，源码中大量写法或许已经过时。
+
+如需编写Mirai插件，请改用其他编程语言。
+
 # 开始
 
-## 1.环境配置（使用一键包）
-### （1）下载[`MiraiOK`](https://github.com/LXY1226/MiraiOK)，并运行等待环境配置完毕。
-### （2）根据教程导入[`http-api`](https://github.com/project-mirai/mirai-api-http)插件，并记录下端口及Key值。
+## 1.环境配置
+### （1）安装[`mirai-console-loader`](https://github.com/iTXTech/mirai-console-loader)并启动。
+### （2）导入[`http-api`](https://github.com/project-mirai/mirai-api-http)插件，并记录下端口及Key值。
 ### （3）在Console终端登录bot。
 
 ## 2.开始开发
